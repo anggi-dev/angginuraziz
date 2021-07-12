@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Face Recognition**
 
-- 📄 Know about my experiences [anggi.netlify.com](anggi.netlify.com)
+- 📄 Know about my experiences [anggi.netlify.app](anggi.netlify.app)
 
 - ⚡ Fun fact **I think I'm a pretty fun person 😁**
 
